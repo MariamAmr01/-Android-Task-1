@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">First Application</string>
+    <string name="header"> First task</string>
+    <string name="Description1"> Part_1 </string>
+    <string name="Description2"> Part_2 </string>
+    <string name="name"> Name: Mariam Amr </string>
+    <string name="age"> Age: 20 </string>
+</resources>
